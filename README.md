@@ -1,4 +1,4 @@
-# Library Loan Book API
+# Restfull Api Pos
 
 [![Release Version](https://img.shields.io/badge/release-v.1.0-blue)](https://github.com/HiRahmat-Dev/library-api/releases/tag/1.0) [![Node JS](https://img.shields.io/badge/Dependencies-Express%20JS-green)](https://nodejs.org/en/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/HiRahmat-Dev/library-api)
